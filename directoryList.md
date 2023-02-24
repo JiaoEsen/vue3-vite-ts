@@ -1,6 +1,4 @@
-# Vue 3 + TypeScript + Pinia + Vite
-
-|-- vue3-vite-ts
+|-- undefined
     |-- .editorconfig
     |-- .env
     |-- .env.development
