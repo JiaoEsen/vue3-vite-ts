@@ -18,7 +18,6 @@ for (const key in constantFiles) {
 }
 
 const routes: Array<RouteRecordRaw> = [...constantModules]
-console.log(routes)
 
 const router = createRouter({
   history: createWebHashHistory(),

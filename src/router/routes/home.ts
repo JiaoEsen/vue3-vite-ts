@@ -4,6 +4,7 @@ const homeRoutes: RouteItemArray = [
   {
     path: '/',
     component: LAYOUT,
+    redirect: '/home',
     children: [
       {
         path: 'home',
