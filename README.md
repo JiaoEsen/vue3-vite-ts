@@ -40,6 +40,8 @@
     |   |   |-- routes
     |   |       |-- home.ts
     |   |       |-- login.ts
+    |   |-- store
+    |   |   |-- index.ts
     |   |-- styles
     |   |-- utils
     |   |-- views
