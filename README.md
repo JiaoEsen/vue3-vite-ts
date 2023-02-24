@@ -1,5 +1,6 @@
 # Vue 3 + TypeScript + Pinia + Vite
 
+```
 |-- vue3-vite-ts
     |-- .editorconfig
     |-- .env
@@ -51,3 +52,4 @@
         |-- global.components.d.ts
         |-- global.d.ts
         |-- shims-vue.d.ts
+```
